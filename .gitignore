@@ -1,0 +1,5 @@
+.*.sw*
+.idea
+
+node_modules/
+dist/
